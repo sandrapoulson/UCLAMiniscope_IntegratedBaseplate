@@ -1,1 +1,1 @@
-Hi everyone, I'm a postdoc in Dr. Gregory Corder's lab and I'm sharing my instructions for creating UCLA miniscope integrated Baseplate + GRIN lens using Miniscopeparts.com baseplates produced by Shell Stiteler. If you want to contact Shylo please email him at shylostiteler @ gmail.com.
+Hi everyone, I'm a postdoc in Dr. Gregory Corder's lab and I'm sharing my instructions for creating UCLA miniscope integrated Baseplate + GRIN lens using Miniscopeparts.com baseplates produced by Shell Stiteler. If you want to contact Shylo please email him at shylostiteler at gmail.com.
